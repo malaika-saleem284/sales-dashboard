@@ -3,11 +3,11 @@
 An interactive sales dashboard built with Python, Pandas and Streamlit.
 
 ## Features
-◆ Upload your own CSV sales data
-◆ Filter by city and category
-◆ View KPIs: Total Sales, Total Orders, Average Order Value
-◆ Bar chart: Sales by Category
-◆ Line chart: Monthly Sales Trend
+- 📂 Upload your own CSV sales data
+- 🔍 Filter by city and category
+- 📊 View KPIs: Total Sales, Total Orders, Average Order Value
+- 📉 Bar chart: Sales by Category
+- 📈 Line chart: Monthly Sales Trend
 
 - ## Demo
 
