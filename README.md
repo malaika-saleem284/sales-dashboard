@@ -9,7 +9,7 @@ An interactive sales dashboard built with Python, Pandas and Streamlit.
 - 📉 Bar chart: Sales by Category
 - 📈 Line chart: Monthly Sales Trend
 
-- ## Demo
+ ## Demo
 
 ![Sales Dashboard Demo](sales_dashboard_demo.gif)
 
